@@ -12,7 +12,14 @@ public class Main {
         System.out.println(singer);
 
         programmer.coding();
+        programmer.walk();
+        programmer.eat();
+
         dancer.dancing();
+        dancer.eat();
+        dancer.walk();
         singer.singing();
+        singer.walk();
+        singer.eat();
     }
 }
